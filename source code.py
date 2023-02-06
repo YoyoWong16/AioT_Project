@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
 
 # Code Reference : https://www.geeksforgeeks.org/python-eye-blink-detection-project/amp/ 
 
@@ -125,10 +120,3 @@ while(ret):
  
 cap.release()
 cv2.destroyAllWindows()
-
-
-# In[ ]:
-
-
-
-
