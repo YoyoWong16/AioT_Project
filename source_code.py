@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 # Code Reference : https://www.geeksforgeeks.org/python-eye-blink-detection-project/amp/ 
 
@@ -32,7 +27,6 @@ ret,img = cap.read()
  
 
 t=0
-
 
 while(ret):
 
